@@ -21,7 +21,7 @@ import javax.swing.table.TableModel;
 
 /**
  *
- * @author PRANTIK
+ * @author SAHID
  */
 public class Registered extends javax.swing.JFrame {
 
