@@ -7,7 +7,7 @@ package crime_management_system;
 
 /**
  *
- * @author PRANTIK
+ * @author SAHID
  */
 public class Front extends javax.swing.JFrame {
 
